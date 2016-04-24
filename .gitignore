@@ -37,6 +37,7 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+cover/
 .coverage
 .coverage.*
 .cache
@@ -58,5 +59,11 @@ docs/_build/
 # PyBuilder
 target/
 
-#Ipython Notebook
+# Ipython Notebook
 .ipynb_checkpoints
+
+# Xweb Framework
+
+# Ansible
+*.retry
+ansible/roles/

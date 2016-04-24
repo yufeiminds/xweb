@@ -1,0 +1,4 @@
+id: zxq01z0
+DEBUG: true
+restful:
+    schema_ref: ./tests/files/swagger.yaml

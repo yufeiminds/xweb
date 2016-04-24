@@ -1,0 +1,5 @@
+- src: Stouts.redis
+- src: Stouts.nginx
+- src: Stouts.python
+- src: Stouts.supervisor
+- src: ANXS.postgresql
